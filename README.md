@@ -1,10 +1,10 @@
 ># springboot-demo
    >>##springboot 各种组件集成
-   >>>+ springboot-base
-   >>>+  springboot-atomikos
-   >>>+ springboot-druid-mybatis
-   >>>+ springboot-druid-mybatis-dynamicdatesource
-   >>>+ springboot-druid-mybatis-session
-   >>>+ springboot-JPA
-   >>>+ springboot-security
-   >>>+ springboot-Servlet-Filter-Listener               
+   >>>1. springboot-base
+   >>>1.  springboot-atomikos
+   >>>1. springboot-druid-mybatis
+   >>>1. springboot-druid-mybatis-dynamicdatesource
+   >>>1. springboot-druid-mybatis-session
+   >>>1. springboot-JPA
+   >>>1. springboot-security
+   >>>1. springboot-Servlet-Filter-Listener               
